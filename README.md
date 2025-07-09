@@ -1,2 +1,1 @@
-# NeuralTestnetServiceAI
-Advanced NeuralTestnetServiceAI project
+.

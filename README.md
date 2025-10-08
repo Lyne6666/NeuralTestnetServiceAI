@@ -2,25 +2,36 @@
 
 ## Description
 
-Advanced NeuralTestnetServiceAI project
+Advanced Neural Testnet Service AI project
 
 ## Features
 
-- Advanced NeuralTestnetServiceAI processing with optimized algorithms
-- Real-time NeuralTestnetServiceAI monitoring using efficient data structures
-- Secure NeuralTestnetServiceAI encryption with industry-standard protocols
-- Scalable NeuralTestnetServiceAI architecture with load balancing
-- Intelligent NeuralTestnetServiceAI pattern recognition using ML techniques
-- Modular design for easy extension and customization
-- Comprehensive API documentation with examples
-- Built-in performance metrics and analytics
+- **Advanced Processing**: Optimized algorithms for efficient Neural Testnet Service AI processing
+- **Real-time Monitoring**: Efficient data structures for real-time Neural Testnet Service AI monitoring
+- **Secure Encryption**: Industry-standard protocols for secure Neural Testnet Service AI encryption
+- **Scalable Architecture**: Load balancing for scalable Neural Testnet Service AI architecture
+- **Intelligent Pattern Recognition**: Machine learning techniques for intelligent Neural Testnet Service AI pattern recognition
+- **Modular Design**: Easy extension and customization with modular design
+- **Comprehensive Documentation**: API documentation with examples
+- **Built-in Analytics**: Performance metrics and analytics
+
 ## Installation
 
+### Clone Repository
+
 ```bash
-pip install git+https://github.com/Lyne6666/NeuralTestnetServiceAI.git
+git clone https://github.com/Lyne6666/NeuralTestnetServiceAI.git
+```
+
+### Install using pip
+
+```bash
+pip install .
 ```
 
 ## Usage
+
+### Run with verbose mode
 
 ```bash
 python -m neuraltestnetserviceai --verbose
